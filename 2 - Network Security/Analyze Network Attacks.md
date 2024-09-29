@@ -45,6 +45,8 @@ Rate limiting sets a threshold on the number of connection requests a system wil
 a given time frame. This can prevent the systems from being overwhelmed by SYN flood
 attacks. Rate limiting can be adjusted at the firewall or load balancer.
  <br />
+
+ 
  <br />
 
 ![image](https://github.com/user-attachments/assets/5bb5660b-471b-4d20-9d41-8afadaed7207)
