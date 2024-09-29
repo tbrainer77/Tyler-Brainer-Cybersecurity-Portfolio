@@ -40,7 +40,7 @@ The logs indicate that the web server has become overwhelmed and is unable
 to process the visitors’ SYN requests. The server is unable to open a new
 connection to new visitors who receive a connection timeout message.
 
-# Mitigation:
+### Mitigation:
 Rate limiting sets a threshold on the number of connection requests a system will accept within
 a given time frame. This can prevent the systems from being overwhelmed by SYN flood
 attacks. Rate limiting can be adjusted at the firewall or load balancer.
