@@ -10,4 +10,5 @@ the error “destination port unreachable.” To troubleshoot the issue, you loa
 browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. Your browser then uses this IP address as the destination IP for sending an HTTPS request to the web server to display the
 webpage The analyzer shows that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable.
 
-https://github.com/tbrainer77/Tyler-Brainer-Cybersecurity-Portfolio/blob/92263a394ba642cdedce1bea4e88e6e09b5c9240/Assets/01.png
+![01](https://github.com/user-attachments/assets/b1955e72-05e0-421e-9748-04f25c3fcfba)
+
