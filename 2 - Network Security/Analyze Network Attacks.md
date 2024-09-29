@@ -44,3 +44,10 @@ connection to new visitors who receive a connection timeout message.
 Rate limiting sets a threshold on the number of connection requests a system will accept within
 a given time frame. This can prevent the systems from being overwhelmed by SYN flood
 attacks. Rate limiting can be adjusted at the firewall or load balancer.
+
+![image](https://github.com/user-attachments/assets/bd8572a9-1e3b-4c02-ba62-cb6f7c249db8)
+
+![image](https://github.com/user-attachments/assets/57fb4ccd-8fba-45ef-a8f1-c19b2dd1cc0a)
+
+![image](https://github.com/user-attachments/assets/3e76958e-1765-4fe1-9ce6-64fc45bdd5bb)
+
