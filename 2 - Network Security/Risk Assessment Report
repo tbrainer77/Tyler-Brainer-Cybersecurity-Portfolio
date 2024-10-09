@@ -1,0 +1,44 @@
+# Security Risk Assessment Report: Network Hardening
+
+## Scenario 
+
+You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
+
+After inspecting the organization’s network, you discover four major vulnerabilities. The four vulnerabilities are as follows:
+
+1. The organization’s employees' share passwords.
+
+2. The admin password for the database is set to the default.
+
+3. The firewalls do not have rules in place to filter traffic coming in and out of the network.
+
+4. Multifactor authentication (MFA) is not used. 
+
+If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
+
+In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
+
+## Respond
+
+### Part 1: Select up to three hardening tools and methods to implement
+
+1. Enforce strong password policies.
+
+Password policies will enforce stong passwords using a set password length and meet ccomplexity requirements such as letters, numbers, and symbols. Each password should be unique and expire every 90 days requiring the user to change their password. 
+
+2. Performing firewall maintenance regularly and port filtering
+
+Firewall maintenance checks and updates security configurations to detect threats. A firewall can block specific port numbers and traffic to limit unwanted communication 
+
+1. Implementing multi-factor authentication (MFA)
+
+MFA requires multiple authetication steps to   identify and verify their credentials before accessing an application. This includes fingerprint and retina scans, facial recognition (Something you are), ID cards, phone numbers or devices (Something you have/possess), PINs and passwords (Something you know).
+
+### Part 2: Explain your recommendations
+
+1. Strong password policies enforce strict adherence and will make the event of a password 
+   brute force difficult.
+
+2. A firewall can limit specified traffic from passing through the network. A firewall acts as a defense to stop unwanted traffic by implementing port filtering.
+
+3. Multi-factor authetication requires autentication in multiple forms. In the event of a compromised password, the threat actor would need the altenate form of identification, such as code sent to the users phone number, or fingerprint.
