@@ -28,7 +28,7 @@ Password policies will enforce stong passwords using a set password length and m
 
 2. Performing firewall maintenance regularly and port filtering
 
-Firewall maintenance checks and updates security configurations to detect threats. A firewall can block specific port numbers and traffic to limit unwanted communication 
+Firewall maintenance checks and updates security configurations to detect threats. A firewall can block specific port numbers and traffic to limit unwanted communication. Unused ports should be disabled.
 
 1. Implementing multi-factor authentication (MFA)
 
