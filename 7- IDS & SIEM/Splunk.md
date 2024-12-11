@@ -1,1 +1,1 @@
-# Splunk Project in progress
+# Splunk Project In Progress
